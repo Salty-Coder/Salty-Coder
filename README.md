@@ -1,8 +1,10 @@
-### Hi there, I'm Salty-Coder 👋
+### Welcome to my profile 👋
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMsrA8uiIozzouHDebKIm3g?style=for-the-badge)](https://youtube.com/saltyspamz)
 
-- 👯 I’m looking to collaborate with other content creators
+### 🚀About me:
+Im a 14 y/o developer from UK.
+
 
 ### Connect with me:
 
@@ -22,6 +24,23 @@
 
 <br />
 <br />
+
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/409250840571019264.png"/>
+</p>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salty-Coder&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/>
+</p>
+
+
+
+
 
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/SaltySpamz
