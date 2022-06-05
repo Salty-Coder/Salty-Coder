@@ -37,12 +37,12 @@ Im a 14 y/o developer from the UK.
 
 
 <p align="center">
-  <img src="https://github.com/Salty-Coder/github-stats-transparent/blob/2d89f1fd86941742e9e242da709b5a728ae40b26/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/overview.svg"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/Salty-Coder/github-stats-transparent/blob/2d89f1fd86941742e9e242da709b5a728ae40b26/generated/languages.svg"/>
+  <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/languages.svg"/>
 </p>
 
 
