@@ -26,7 +26,8 @@ Im a 14 y/o developer from the UK.
 
 <br />
 <br />
-
+<br />
+<br />
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/409250840571019264.png"/>
