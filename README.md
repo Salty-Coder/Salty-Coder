@@ -9,7 +9,8 @@ Im a 14 y/o developer from the UK.
 ### Connect with me:
 
 [<img align="left" alt="Salty Spamz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Salty Spamz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Salty Spamz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -38,14 +39,20 @@ Im a 14 y/o developer from the UK.
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/overview.svg"/>
-</p>
+
+<div align="center">
+
+  <a>
+    <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/overview.svg"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/languages.svg"/>
+  </a>
+  
+</div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/languages.svg"/>
-</p>
+
 
 
 
@@ -57,6 +64,6 @@ Im a 14 y/o developer from the UK.
 
 
 
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/saltyspamz
 [youtube]: https://youtube.com/SaltySpamz
 [instagram]: https://instagram.com/saltyspamzyt
