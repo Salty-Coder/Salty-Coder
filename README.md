@@ -8,6 +8,7 @@ Im a 14 y/o developer from the UK.
 
 ### Connect with me:
 
+[<img align="left" alt="Salty Spamz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Salty Spamz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Salty Spamz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Salty Spamz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -64,6 +65,7 @@ Im a 14 y/o developer from the UK.
 
 
 
+[email]: mailto:salty@saltyspamz.xyz
 [twitter]: https://twitter.com/saltyspamz
 [youtube]: https://youtube.com/SaltySpamz
 [instagram]: https://instagram.com/saltyspamzyt
