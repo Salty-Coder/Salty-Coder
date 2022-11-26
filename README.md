@@ -17,13 +17,13 @@ I'm a 15 y/o developer from the UK.
 
 ### Languages:
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_32x32.png" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css_32x32.png" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php_32x32.png" />
-<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua_32x32.png" />
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://en.wikipedia.org/wiki/Node.js)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png" />](https://en.wikipedia.org/wiki/Python)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_32x32.png" />](https://en.wikipedia.org/wiki/HTML5)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css_32x32.png" />](https://en.wikipedia.org/wiki/CSS)
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php_32x32.png" />](https://en.wikipedia.org/wiki/PHP)
+[<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua_32x32.png" />](https://en.wikipedia.org/wiki/Wikipedia:Lua)
 
 
 <br />
