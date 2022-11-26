@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMsrA8uiIozzouHDebKIm3g?style=for-the-badge)](https://youtube.com/saltyspamz)
 
 ### 🚀About me:
-Im a 14 y/o developer from the UK.
+I'm a 15 y/o developer from the UK.
 
 
 ### Connect with me:
