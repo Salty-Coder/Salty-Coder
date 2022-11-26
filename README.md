@@ -12,6 +12,7 @@ I'm a 15 y/o developer from the UK.
 [<img align="left" alt="Salty Spamz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Salty Spamz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Salty Spamz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Salty Spamz | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -69,3 +70,4 @@ I'm a 15 y/o developer from the UK.
 [twitter]: https://twitter.com/saltyspamz
 [youtube]: https://youtube.com/SaltySpamz
 [instagram]: https://instagram.com/saltyspamzyt
+[discord]: https://discordapp.com/users/409250840571019264/
