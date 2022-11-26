@@ -1,6 +1,9 @@
-### Welcome to my profile 👋
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCMsrA8uiIozzouHDebKIm3g?style=for-the-badge)](https://youtube.com/saltyspamz)
+Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===============================================================================================================================
+<img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/>
+
+
 
 ### 🚀About me:
 I'm a 15 y/o developer from the UK.
@@ -15,7 +18,6 @@ I'm a 15 y/o developer from the UK.
 [<img align="left" alt="Salty Spamz | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br><br>
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-
 <br />
 
 ### Languages:
@@ -33,6 +35,7 @@ I'm a 15 y/o developer from the UK.
 <br />
 <br />
 <br />
+
 
   
 <p align="center">
@@ -55,11 +58,6 @@ I'm a 15 y/o developer from the UK.
 
 
 
-
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/>
-</p>
 
 
 
