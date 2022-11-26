@@ -34,9 +34,6 @@ I'm a 15 y/o developer from the UK.
 <br />
 <br />
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/409250840571019264.png"/>
-</p>
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Salty-Coder&show_icons=true&theme=tokyonight"/>
