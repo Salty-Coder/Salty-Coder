@@ -1,7 +1,6 @@
 
 Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
-<img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/>
 
 
 
@@ -9,27 +8,25 @@ Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176
 I'm a 15 y/o developer from the UK.
 
 
-### Connect with me:
+### 🔗 Connect with me:
 
-[<img align="left" alt="Salty Spamz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Salty Spamz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Salty Spamz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Salty Spamz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Salty Spamz | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Salty Spamz | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img align="left" alt="Salty Spamz | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="Salty Spamz | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Salty Spamz | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br><br>
-[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-<br />
-
-### Languages:
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://en.wikipedia.org/wiki/Node.js)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png" />](https://en.wikipedia.org/wiki/Python)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html_32x32.png" />](https://en.wikipedia.org/wiki/HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css_32x32.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php_32x32.png" />](https://en.wikipedia.org/wiki/PHP)
-[<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lua/lua_32x32.png" />](https://en.wikipedia.org/wiki/Wikipedia:Lua)
-
+### 📚 Some of the languages I use
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+<br><br>
+### <a href="#"><img src="https://spaces-cdn.clipsafari.com/bsu2nc68wv4cpli10l62sotq9ma4" height="20"></a> Databases I use
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 <br />
 <br />
@@ -59,7 +56,11 @@ I'm a 15 y/o developer from the UK.
 
 
 
-
+<div align="center">
+<h2>📬 Want to get in touch? <br/></h2>
+  <p>You can contact me by email by <a href="mailto:salty@saltyspamz.xyz"> clicking here</a><br><br>
+    <img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/></p>
+</div>
 
 
 
