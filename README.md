@@ -37,9 +37,18 @@ I'm a 15 y/o developer from the UK.
 <br />
 <br />
 <br />
+
+
+
+<picture>
+  <img src="https://raw.githubusercontent.com/Salty-Coder/profile-metrics/main/github-metrics.svg" alt="Profile Metrics" width="100%">
+</picture>
+
+<br />
+<br />
 <br />
 
-
+<!--
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Salty-Coder&show_icons=true&theme=tokyonight"/>
@@ -59,7 +68,7 @@ I'm a 15 y/o developer from the UK.
 </div>
 
 
-
+-->
 
 
 <div align="center">
