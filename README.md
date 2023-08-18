@@ -40,9 +40,7 @@ I'm a 15 y/o developer from the UK.
 
 
 
-<picture>
-  <img src="https://raw.githubusercontent.com/Salty-Coder/profile-metrics/main/github-metrics.svg" alt="Profile Metrics">
-</picture>
+<img src="https://raw.githubusercontent.com/Salty-Coder/profile-metrics/main/github-metrics.svg" alt="Profile Metrics">
 
 <br />
 <br />
