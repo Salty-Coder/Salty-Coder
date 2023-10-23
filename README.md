@@ -16,10 +16,10 @@ I'm a 16 y/o developer from the UK.
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="Salty Spamz | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img align="left" alt="Salty Spamz | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img align="left" alt="Salty Spamz | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Salty Spamz | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Salty-Coder | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img align="left" alt="Salty-Coder | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="Salty-Coder | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Salty-Coder | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br><br>
 ### 📚 Some of the languages I use
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
