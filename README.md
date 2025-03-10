@@ -93,7 +93,7 @@ I'm a 17 y/o developer from the UK.
 
 <div align="center">
 <h2>📬 Want to get in touch? <br/></h2>
-  <p>You can contact me by email by <a href="mailto:salty@saltyspamz.xyz"> clicking here</a><br><br>
+  <p>You can contact me by email by <a href="mailto:saltyspamzyt@gmail.com"> clicking here</a><br><br>
     <img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/></p>
 </div>
 
