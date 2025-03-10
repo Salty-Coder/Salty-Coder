@@ -99,7 +99,7 @@ I'm a 17 y/o developer from the UK.
 
 
 
-[email]: mailto:salty@saltyspamz.xyz
+[email]: mailto:saltyspamzyt@gmail.com
 [twitter]: https://twitter.com/saltyspamz
 [youtube]: https://youtube.com/SaltySpamz
 [instagram]: https://instagram.com/saltyspamzyt
