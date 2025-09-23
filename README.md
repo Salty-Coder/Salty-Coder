@@ -11,7 +11,7 @@ Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176
 
 
 ### 🚀About me:
-I'm a 17 y/o developer from the UK.
+I'm a 18 y/o developer from the UK.
 
 
 ### 🔗 Connect with me:
