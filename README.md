@@ -17,7 +17,6 @@ I'm an 18 y/o developer from the UK.
 ### 🔗 Connect with me:
 
 [<img align="left" alt="Salty-Coder | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img align="left" alt="Salty-Coder | Twitter" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" />][twitter]
 [<img align="left" alt="Salty-Coder | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br><br>
 ### 📚 Languages I know and use
